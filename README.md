@@ -39,3 +39,6 @@ Como entrega para esta atividade são esperados (i) o relatório, (ii) o código
 
 #### Como executar?
 ```./primo 10000 34```
+
+## RESULTADOS
+![resultado](https://github.com/marianyfs/INE5645-programacao-paralela-distribuida/blob/main/resultado.png)
